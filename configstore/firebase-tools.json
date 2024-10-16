@@ -1,0 +1,37 @@
+{
+	"motd": {
+		"cloudBuildErrorAfter": 1594252800000,
+		"cloudBuildWarnAfter": 1590019200000,
+		"defaultNode10After": 1594252800000,
+		"minVersion": "3.0.5",
+		"node8DeploysDisabledAfter": 1613390400000,
+		"node8RuntimeDisabledAfter": 1615809600000,
+		"node8WarnAfter": 1600128000000,
+		"fetched": 1725369270517
+	},
+	"usage": true,
+	"analytics-uuid": "6449c72b-da86-46c5-ad9b-9297a8b6fc4b",
+	"user": {
+		"iss": "accounts.google.com",
+		"azp": "563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com",
+		"aud": "563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com",
+		"sub": "103925719589009192321",
+		"email": "minecraft.ganeau@gmail.com",
+		"email_verified": true,
+		"at_hash": "5fKmxqyN9b-zTrItNrEdYA",
+		"iat": 1725369283,
+		"exp": 1725372883
+	},
+	"tokens": {
+		"expires_at": 1725372882099,
+		"access_token": "ya29.a0AcM612zTDt7FHUSfztc0mR69fFmU7RxMysq1D-gd23lC_3gtGY2eVrlwN2gA1E31Y9POAnWVUgcUCo7XJFagjAfpnhQm76OZHwLJYhHl5mU0J2VnjdGzTqjHm7ZZFYJ-9-I7fKjQJxkpd8BNtHFtrPWgSBB_fE9OP-aKrYyN21M2IQaCgYKAc0SARESFQHGX2Miys3hDtWa20N_SWdi-_fBHw0181",
+		"expires_in": 3599,
+		"refresh_token": "1//03_RHhu1i_XefCgYIARAAGAMSNwF-L9Ir9PwPcxU91U1sC6LV0oS0lTVrpX4PcS3JWP_0rUgg84quY95xaG4qy59xvPmpExyWjGg",
+		"scope": "https://www.googleapis.com/auth/firebase https://www.googleapis.com/auth/cloud-platform https://www.googleapis.com/auth/cloudplatformprojects.readonly https://www.googleapis.com/auth/userinfo.email openid",
+		"token_type": "Bearer",
+		"id_token": "eyJhbGciOiJSUzI1NiIsImtpZCI6ImIyZjgwYzYzNDYwMGVkMTMwNzIxMDFhOGI0MjIwNDQzNDMzZGIyODIiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJhY2NvdW50cy5nb29nbGUuY29tIiwiYXpwIjoiNTYzNTg0MzM1ODY5LWZncmhnbWQ0N2JxbmVraWo1aThiNXByMDNobzg0OWU2LmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwiYXVkIjoiNTYzNTg0MzM1ODY5LWZncmhnbWQ0N2JxbmVraWo1aThiNXByMDNobzg0OWU2LmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwic3ViIjoiMTAzOTI1NzE5NTg5MDA5MTkyMzIxIiwiZW1haWwiOiJtaW5lY3JhZnQuZ2FuZWF1QGdtYWlsLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJhdF9oYXNoIjoiNWZLbXhxeU45Yi16VHJJdE5yRWRZQSIsImlhdCI6MTcyNTM2OTI4MywiZXhwIjoxNzI1MzcyODgzfQ.V0vZbZPTdXbWh5JazFxFfU3XjHgogWGsDaXLfFVivLuqseCmaajiamuU6mkWy2VqqnlcV_d9Y3VMaNmkLhe3CW_Ar_INJ9EIUxnv1swMKkMHjTO6P4_WrrAwAyqNx-TFJJyi9nn99GoUsfccK1-V0jeYz4H1oogoNappA3t5MOB5YhUA_5XD2s0LzyNJzw8ie3uCf2kzife5ervZHL4Auhw_m3MOZuCS24vRc6u8xLEZeCIbkcu7-xWutxMPNkPQNsR-phL3QnUB2d3wB8DM5-Ritl4bp_frTg9pl2qhlIn0k-X8VLHop0Zv27-TolF8gpGt2qVyulqfIp-Uxi__Hw"
+	},
+	"activeProjects": {
+		"/Users/antoineganeau/Documents/Projects/svelte-test": "assignment-helper-1fd79"
+	}
+}

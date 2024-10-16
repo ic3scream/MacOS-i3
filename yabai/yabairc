@@ -1,0 +1,29 @@
+yabai -m config layout bsp
+
+yabai -m config window_placement second_child
+
+#padding
+
+yabai -m config top_padding 14
+yabai -m config bottom_padding 6
+yabai -m config left_padding 6
+yabai -m config right_padding 6
+yabai -m config window_gap 10
+
+#mouse setting
+
+yabai -m config mouse_follow_focus on
+
+#left click+drag
+yabai -m onfig mouse_modifier alt
+
+#right click+drag
+yabai -m onfig mouse_action2 resize
+
+yabai-m mouse_drop_action swap
+
+#disable specific apps
+yabai -m rule --add app="^System Settings$" manage=off
+yabai -m rule --add app="^Calculator$" manage=off
+
+borders active_color=0xffe1e3e4 inactive_color=0xff494d64 width=5.0 &
