@@ -21,10 +21,10 @@ shift + alt - p : yabai -m window --space prev;
 shift + alt - n : yabai -m window --space next;
 
 # change window focus within space
-alt - j : yabai -m window --focus south
-alt - k : yabai -m window --focus north
-alt - h : yabai -m window --focus west
-alt - l : yabai -m window --focus east
+alt - down : yabai -m window --focus south
+alt - up : yabai -m window --focus north
+alt - left : yabai -m window --focus west
+alt - right : yabai -m window --focus east
 
 # swap windows
 shift + alt - down : yabai -m window --swap south
@@ -52,4 +52,4 @@ alt - d : yabai -m window --close
 #turn off system
 alt + shift - q : osascript -e 'tell app "System Events" to shut down'
 
-cmd - return : osascript -e 'tell application "iTerm2" to create window with default profile command ""' || open -na iTerm
+alt - return : osascript -e 'tell application "iTerm2" to create window with default profile command ""' || open -na iTerm
